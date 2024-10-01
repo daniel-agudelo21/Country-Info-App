@@ -36,7 +36,7 @@ export default function PopulationChart({ populationData }) {
         data: populationValues, 
         borderColor: 'rgb(75, 185, 21)',
         fill: false,
-        tension: 1,
+        tension: 0.1,
         hoverBackgroundColor: 'rgb(75, 185, 21)'
       },
     ],
