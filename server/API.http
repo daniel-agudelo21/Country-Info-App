@@ -2,4 +2,4 @@
 GET http://localhost:3001/
 
 ### Get specific country
-GET http://localhost:3001/AD
+GET http://localhost:3001/SJ
